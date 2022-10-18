@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+# React Typescript Template (temp)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/moraesrayanne/react-typescript-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/moraesrayanne/react-typescript-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/moraesrayanne/react-typescript-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/moraesrayanne/react-typescript-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/moraesrayanne/react-typescript-template?style=for-the-badge)
 
-## Available Scripts
+<!-- <img src="exemplo-image.png" alt="exemplo imagem"> -->
 
-In the project directory, you can run:
+> Projeto criado para estudos sobre configuração inicial.
 
-### `npm start`
+### Ajustes e melhorias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [ ] Instalação do Axios
+- [ ] Configuração do Axios
+- [ ] Instalação do Redux
+- [ ] Configuração do Redux
+- [ ] A planejar
 
-### `npm test`
+## 💻 Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+* Você instalou a versão mais recente do `react`
+* Você tem uma máquina `Windows / Linux`.
 
-### `npm run build`
+<!-- ## 🚀 Instalando <react_typescript_template>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para instalar o <react_typescript_template>, siga estas etapas:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Linux e macOS:
+```
+<comando_de_instalação>
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Windows:
+```
+<comando_de_instalação>
+``` -->
 
-### `npm run eject`
+## ☕ Usando <react_typescript_template>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Para usar <react_typescript_template>, siga estas etapas:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+Versão do node: v16.15.1^
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 😄 Seja um dos contribuidores<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-## Learn More
+## 📝 Licença
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
